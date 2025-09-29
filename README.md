@@ -1,76 +1,80 @@
-# Summit-Solutions-Inc.-Sales-and-Profit-Dashboard📖 Project Story
-Summit Solutions Inc. Sales and Profit Dashboard is an interactive Power BI report designed to provide business leaders with a clear view of company performance. It consolidates key metrics — Total Sales (4.38M), Gross Profit (2.26M), and Profit Margin (52%) — into an executive-ready dashboard.
+![Summit](https://github.com/user-attachments/assets/f8b75a68-d8fb-4b0b-b7d4-488b31f33463)
+Summit Solutions Inc. Sales and Profit Dashboard 📖
 
-The dashboard breaks down sales trends by month, region, category, and channel, revealing where growth and profit are strongest. Key insights show that Asia-Pacific and Europe drive performance, while Online sales dominate with 60.6% of total revenue. Product categories like Fashion and Electronics lead in sales, and subcategories such as Accessories and Computing contribute significantly to profitability.
+This project is a Sales and Profit Dashboard I built in Power BI for Summit Solutions Inc. It gives company leaders a clear picture of how the business is doing by showing key numbers like Total Sales ($4.38M), Gross Profit ($2.26M), and Profit Margin (52%).
 
-With visualizations that highlight growth opportunities and risks, this dashboard turns raw sales data into actionable business intelligence. It helps executives and decision-makers quickly identify high-performing regions, channels, and categories, while also spotting underperforming areas that need strategic focus.
+The dashboard breaks down sales by month, region, product category, and sales channel. It helps spot where the company is growing the most and which areas are making the best profits. For example, Asia-Pacific and Europe are the strongest regions, while Online sales make up about 60.6% of the revenue. Fashion and Electronics are top-selling categories, with Accessories and Computing standing out as really profitable subcategories.
 
-This project demonstrates how I apply data storytelling and visualization skills to transform complex datasets into insights that drive smarter, faster decisions.
-At Summit Solutions Inc., leadership faced a familiar challenge:
+With easy-to-understand visuals, the dashboard helps leaders quickly see which regions, channels, and categories are doing well, and which ones might need more attention.
 
-“Which regions are driving growth?”
+Why I Built This
 
-“Which product categories truly fuel profitability?”
+The leadership team at Summit Solutions wanted answers to some important questions:
 
-“Are we investing in the right sales channels?”
+Which regions are really driving growth?
 
-To answer these questions, I developed an interactive Sales and Profit Dashboard in Power BI. It transforms raw sales data into a clear story of revenue, profit, and performance across categories, regions, and channels.
+What product categories are bringing in the most profit?
 
-🎯 The Challenge
+Are we focusing on the right sales channels?
 
-Summit Solutions operates globally, selling products across categories like Sports, Fashion, Office Supplies, Electronics, and Home Goods. While sales were strong, management lacked visibility into:
+To help them out, I created this interactive dashboard. It takes all the sales data and turns it into a simple story about revenue, profits, and performance by region, category, and channel.
 
-Regional contributions to total revenue
+The Challenge
 
-Profitability by product category and subcategory
+Summit Solutions sells a variety of products globally. From Sports and Fashion to Office Supplies and Electronics. Although sales were generally good, management didn’t have a clear picture of:
 
-Channel performance (Online, Retail, Wholesale)
+Which regions contribute most to revenue
 
-Monthly sales trends to spot growth and dips
+How profitable different product categories and subcategories are
 
-🛠️ My Approach
+How different sales channels (Online, Retail, Wholesale) perform
 
-I designed a dashboard that:
+Monthly trends to spot growth or slowdowns
 
-Shows Total Sales (4.38M), Gross Profit (2.26M), and Profit Margin (52%) at a glance.
+What I Did
 
-Tracks monthly sales trends across 2024–2025.
+I built a dashboard that:
 
-Compares regional performance (North America, Europe, Asia-Pacific, Latin America, Middle East).
+Shows total sales, gross profit, and profit margin at a quick glance
 
-Breaks down sales by category (Sports, Fashion, Office, Electronics, Home).
+Tracks monthly sales trends across 2024 and 2025
 
-Reveals channel performance — Online (60.61%), Retail, and Wholesale.
+Compares sales performance across regions: North America, Europe, Asia-Pacific, Latin America, Middle East
 
-Highlights subcategory profitability, showing where the business earns the most (e.g., Accessories, Computing, Apparel).
+Breaks sales down by category like Sports, Fashion, Office, Electronics, Home
 
-💡 Key Insights
+Shows channel sales split between Online, Retail, and Wholesale
 
-Asia-Pacific and Europe are strong markets, while Latin America and the Middle East underperform.
+Highlights the most profitable subcategories like Accessories, Computing, and Apparel
 
-Online sales dominate (60.6%), but Retail and Wholesale remain important secondary channels.
+What I Learned
 
-Fashion and Electronics drive high revenue, while subcategories like Accessories and Computing bring strong profitability.Tools Used
+Asia-Pacific and Europe are the biggest contributors to revenue
 
-Power BI → Dashboard creation & visualization
+Online sales are huge; over 60% but Retail and Wholesale still matter
 
-SQL / Excel → Data extraction and preparation
+Fashion and Electronics are key revenue drivers
 
-Data storytelling → To frame results for business decision-making
+Profit margins are healthy at 52%, showing good cost control
 
-🔮 Next Steps
+Sales trends show steady growth with some mid-year spikes, probably tied to promotions or seasons
 
-Add forecasting visuals to anticipate sales growth.
+Tools I Used
 
-Introduce regional drill-downs for deeper country-level insights.
+Power BI for building the dashboard
 
-Automate data refresh for real-time reporting.
+SQL and Excel for getting and cleaning the data
 
-📌 Why This Project Matters
+Data storytelling to make sure the dashboard clearly explains what the numbers mean
 
-This dashboard showcases my ability to design executive-ready analytics tools. It doesn’t just show numbers — it tells the business story, helping leaders identify growth opportunities and make data-driven decisions with confidence.![Summit](https://github.com/user-attachments/assets/79551fbd-1d75-42a1-9b44-eac42673f889)
+What’s Next?
 
+Add sales forecasting to help predict future growth
 
-Profit margins are healthy at 52%, signaling good cost control.
+Build in more detailed views to drill down into specific countries
 
-Monthly trends show stable growth, with peaks in mid-year — possibly linked to promotions or seasonal campaigns.
+Set up automatic data refresh so the dashboard stays up to date
+
+Why It Matters
+
+This dashboard is a great example of how I turn complex sales data into simple, useful insights that help business leaders make better decisions. It’s not just numbers, it’s a clear picture of where the business is doing well and where it needs to improve.
